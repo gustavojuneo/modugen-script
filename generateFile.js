@@ -17,7 +17,7 @@ const getKeys = () => {
   }
 };
 
-const generateFile = (data) => {
+const generateReplacedFile = (data) => {
   let newData = data;
   const keys = getKeys();
 
@@ -27,4 +27,4 @@ const generateFile = (data) => {
   return newData;
 }
 
-module.exports = { generateFile }
+module.exports = { generateReplacedFile }
