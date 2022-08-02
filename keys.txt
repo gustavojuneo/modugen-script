@@ -1,0 +1,4 @@
+<SamplePlural> | TestePlural
+<samplePlural> | testePlural
+<SampleSingle> | TesteSingle
+<sampleSingle> | testeSingle
